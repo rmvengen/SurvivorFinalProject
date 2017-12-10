@@ -1,5 +1,5 @@
 {"seasonName": "Borneo", "seasonNumber": 1,"seasonLocation": "Malaysia","yearOfSeason": 2000, "monthOfSeason": "May" }
-{"seasonName": "Australia", "seasonNumber": 2 "seasonLocation": "Australia", "yearOfSeason": 2001, "monthOfSeason": "January"}
+{"seasonName": "Australian Outback", "seasonNumber": 2, "seasonLocation": "Australia", "yearOfSeason": 2001, "monthOfSeason": "January"}
 {"seasonName": "Africa",  "seasonNumber": 3, "seasonLocation": "Africa",  "yearOfSeason": 2001, "monthOfSeason": "October" }
 {"seasonName": "Marquesas", "seasonNumber": 4, "seasonLocation": "French Polynesia", "yearOfSeason": 2002, "monthOfSeason": "February" }
 {"seasonName": "Thailand", "seasonNumber": 5, "seasonLocation": "Thailand", "yearOfSeason": 2002, "monthOfSeason": "September"}
@@ -32,4 +32,4 @@
 {"seasonName": "Kaoh Rong", "seasonNumber": 32, "seasonLocation": "Cambodia", "yearOfSeason": 2016, "monthOfSeason": "February"}
 {"seasonName": "Millennials vs. Gen X", "seasonNumber": 33, "seasonLocation": "Fiji", "yearOfSeason": 2016, "monthOfSeason": "September"}
 {"seasonName": "Game Changers", "seasonNumber": 34, "seasonLocation": "Fiji", "yearOfSeason": 2017, "monthOfSeason": "March"}
-{"seasonName": "Heroes vs. Healers vs. Hustlers" "seasonNumber": 35, "seasonLocation": "Fiji", "yearOfSeason": 2017, "monthOfSeason": "September"}
+{"seasonName": "Heroes vs. Healers vs. Hustlers", "seasonNumber": 35, "seasonLocation": "Fiji", "yearOfSeason": 2017, "monthOfSeason": "September"}

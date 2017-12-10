@@ -14,7 +14,6 @@
 {"contestantName": "Rudy Boesch", "Age": 72 , "seasonName": "Borneo", "livingLocationCity": "Virginia Beach" , "livingLocationState": "VA", "finish": 3}
 {"contestantName": "Kelly Wiglesworth", "Age": 23 , "seasonName": "Borneo", "livingLocationCity": "Las Vegas" , "livingLocationState": "NV" , "finish": 2 }
 {"contestantName": "Richard Hatch", "Age": 39 , "seasonName": "Borneo", "livingLocationCity": "Newport" , "livingLocationState": "RI" , "finish": 1 }
-/////////Australian Outback////////////////
 {"contestantName":" Debb Eaton" , "Age": 45 , "seasonName": "Australian Outback", "livingLocationCity":"Milan" , "livingLocationState": "NH", "finish":16 }
 {"contestantName": "Kel Gleason", "Age":32 , "seasonName": "Australian Outback", "livingLocationCity": "Fort Hood" , "livingLocationState": "TX" , "finish": 15 }
 {"contestantName": "Maralyn Hershey", "Age": 51 , "seasonName": "Australian Outback", "livingLocationCity": "Wakefield" , "livingLocationState": "VA", "finish": 14 }
@@ -31,8 +30,7 @@
 {"contestantName": "Keith Famie", "Age":40, "seasonName": "Australian Outback","livingLocationCity": "West Bloomfield", "livingLocationState": "MI", "finish":3}
 {"contestantName": "Colby Donaldson", "Age":26, "seasonName": "Australian Outback","livingLocationCity": "Dallas", "livingLocationState": "TX", "finish": 2}
 {"contestantName": "Tina Wesson", "Age":39, "seasonName": "Australian Outback","livingLocationCity": "Knoxville", "livingLocationState": "TN", "finish": 1}
-///////////Africa Season///////////////////
-{"contestantName": "Diane Ogden", "Age":42, "seasonName": "Africa",	"livingLocationCity": ,"Lincoln", "livingLocationState": "NE", "finish": 16}
+{"contestantName": "Diane Ogden", "Age":42, "seasonName": "Africa",	"livingLocationCity": "Lincoln", "livingLocationState": "NE", "finish": 16}
 {"contestantName": "Jessie Camacho", "Age":27, "seasonName": "Africa","livingLocationCity": "Orlando", "livingLocationState": "FL", "finish": 15}
 {"contestantName": "Carl Bilancione", "Age":46, "seasonName": "Africa","livingLocationCity": "Winter Springs", "livingLocationState": "FL", "finish": 14}
 {"contestantName": "Linda Spencer", "Age":	44, "seasonName": "Africa",	"livingLocationCity": "Cambridge", "livingLocationState": "MA", "finish": 13}
@@ -48,11 +46,10 @@
 {"contestantName": "Lex van den Berghe", "Age":	38, "seasonName": "Africa", "livingLocationCity": "Santa Cruz", "livingLocationState": "CA", "finish": 3}
 {"contestantName": "Kim Johnson", "Age":57, "seasonName": "Africa", "livingLocationCity": "Oyster Bay", "livingLocationState": "NY", "finish": 2}
 {"contestantName": "Ethan Zohn", "Age":	27, "seasonName": "Africa", "livingLocationCity": "Lexington", "livingLocationState": "MA", "finish": 1}
-///////////Marquesas//////////////////////////////////
 {"contestantName": "Peter Harkey", "Age": 45, "seasonName": "Marquesas", "livingLocationCity": "Millis", "livingLocationState": "MA", "finish": 16}
 {"contestantName": "Patricia Jackson", "Age": 49, "seasonName": "Marquesas", "livingLocationCity": "Lugoff", "livingLocationState": "SC", "finish": 15}
 {"contestantName": "Hunter Ellis", "Age": 33, "seasonName": "Marquesas", "livingLocationCity": "La Jolla", "livingLocationState": "CA", "finish": 14}
-{"contestantName": "Sarah Jones", "Age": 24, "seasonName": "Marquesas", "livingLocationCity": "	Newport Beach", "livingLocationState": "CA", "finish": 13}
+{"contestantName": "Sarah Jones", "Age": 24, "seasonName": "Marquesas", "livingLocationCity": "Newport Beach", "livingLocationState": "CA", "finish": 13}
 {"contestantName": "Gabriel Cade", "Age": 23, "seasonName": "Marquesas", "livingLocationCity": "Celo", "livingLocationState": "NC", "finish": 12}
 {"contestantName": "Gina Crews", "Age": 28, "seasonName": "Marquesas", "livingLocationCity": "Gainesville", "livingLocationState": "FL", "finish": 11}
 {"contestantName": "Rob Mariano", "Age": 26, "seasonName": "Marquesas", "livingLocationCity": "Canton", "livingLocationState": "MA", "finish": 10}
@@ -63,9 +60,8 @@
 {"contestantName": "Sean Rector", "Age": 30, "seasonName": "Marquesas", "livingLocationCity": "Harlem", "livingLocationState": "NY", "finish":5}
 {"contestantName": "Paschal English", "Age": 57, "seasonName": "Marquesas", "livingLocationCity": "Thomaston", "livingLocationState": "GA", "finish":4}
 {"contestantName": "Kathy Vavrick-O'Brien", "Age": 47, "seasonName": "Marquesas", "livingLocationCity": "Burlington", "livingLocationState": "VT", "finish":3}
-{"contestantName": "Neleh Dennis", "Age": 21, "seasonName": "Marquesas", "livingLocationCity": "Layton", "livingLocationState": "UT 2}
-{"contestantName": "Vecepia Towery", "Age": 36, "seasonName": "Marquesas", "livingLocationCity": "Portland", "livingLocationState": "OR 1}
-///////////Thailand//////////////
+{"contestantName": "Neleh Dennis", "Age": 21, "seasonName": "Marquesas", "livingLocationCity": "Layton", "livingLocationState": "UT", "finish": 2}
+{"contestantName": "Vecepia Towery", "Age": 36, "seasonName": "Marquesas", "livingLocationCity": "Portland", "livingLocationState": "OR", "finish": 1}
 {"contestantName": "John Raymond", "Age": 40, "seasonName": "Thailand", "livingLocationCity": "Slidell", "livingLocationState": "LA", "finish": 16}
 {"contestantName": "Tanya Vance", "Age": 27, "seasonName": "Thailand", "livingLocationCity": "Kingsport", "livingLocationState": "TN", "finish": 15}
 {"contestantName": "Jed Hildebrand", "Age": 25, "seasonName": "Thailand", "livingLocationCity": "Dallas", "livingLocationState": "TX", "finish": 14}
@@ -82,7 +78,6 @@
 {"contestantName": "Jan Gentry", "Age": 53, "seasonName": "Thailand", "livingLocationCity": "Tampa", "livingLocationState": "FL", "finish": 3}
 {"contestantName": "Clay Jordan", "Age": 46, "seasonName": "Thailand", "livingLocationCity": "Monroe", "livingLocationState": "LA", "finish": 2}
 {"contestantName": "Brian Heidik", "Age": 34, "seasonName": "Thailand", "livingLocationCity": "Quartz Hill", "livingLocationState": "CA", "finish": 1}
-////////////////////Amazon/////////////////////////////////
 {"contestantName": "Ryan Aiken", "Age":	23, "seasonName": "Amazon", "livingLocationCity": "Ellicott City", "livingLocationState": "MD", "finish": 16}
 {"contestantName": "Janet Koth", "Age":	47, "seasonName": "Amazon", "livingLocationCity": "Manchester", "livingLocationState": "MO", "finish": 15}
 {"contestantName": "Daniel Lue", "Age":	27, "seasonName": "Amazon", "livingLocationCity": "Houston", "livingLocationState": "TX", "finish": 14}
@@ -99,7 +94,6 @@
 {"contestantName": "Rob Cesternino", "Age": 24, "seasonName": "Amazon", "livingLocationCity": "Wantagh", "livingLocationState": "NY", "finish": 3}
 {"contestantName": "Matthew von Ertfelda", "Age": 33, "seasonName": "Amazon", "livingLocationCity": "Washington", "livingLocationState": "D.C.", "finish": 2}
 {"contestantName": "Jenna Morasca", "Age": 21, "seasonName": "Amazon", "livingLocationCity": "Pittsburgh", "livingLocationState": "PA", "finish": 1}
-//////////////////Pearl Islands//////////////////////
 {"contestantName": "Nicole Delma", "Age": 24, "seasonName": "Pearl Islands", "livingLocationCity": "Hermosa Beach", "livingLocationState": " CA", "finish": 16}
 {"contestantName": "Ryan Shoulders", "Age": 23, "seasonName": "Pearl Islands", "livingLocationCity": "Clarksville", "livingLocationState": "TN", "finish": 15}
 {"contestantName": "Michelle Tesauro", "Age": 22, "seasonName": "Pearl Islands", "livingLocationCity": "Pittstown", "livingLocationState": "NJ", "finish": 14}
@@ -108,7 +102,7 @@
 {"contestantName": "Osten Taylor", "Age": 27, "seasonName": "Pearl Islands", "livingLocationCity": "Boston", "livingLocationState": "MA", "finish": 11}
 {"contestantName": "Andrew Savage", "Age": 40, "seasonName": "Pearl Islands", "livingLocationCity": "Chicago", "livingLocationState": "IL", "finish": 10}
 {"contestantName": "Ryan Opray", "Age": 31, "seasonName": "Pearl Islands", "livingLocationCity": "Los Gatos", "livingLocationState": "CA", "finish": 9}
-{"contestantName": "Rupert Boneham", "Age": 39, "seasonName": "Pearl Islands", "livingLocationCity": "Indianapolis", "livingLocationState": "IN	", "finish": 8}
+{"contestantName": "Rupert Boneham", "Age": 39, "seasonName": "Pearl Islands", "livingLocationCity": "Indianapolis", "livingLocationState": "IN", "finish": 8}
 {"contestantName": "Tijuana Bradley", "Age": 27, "seasonName": "Pearl Islands", "livingLocationCity": "St. Louis", "livingLocationState": "MO", "finish": 7}
 {"contestantName": "Christa Hastie", "Age": 24, "seasonName": "Pearl Islands", "livingLocationCity": "Los Angeles", "livingLocationState": "CA", "finish": 6}
 {"contestantName": "Burton Roberts", "Age": 31, "seasonName": "Pearl Islands", "livingLocationCity": "San Francisco", "livingLocationState": "CA", "finish": 5}
@@ -116,12 +110,11 @@
 {"contestantName": "Jon 'Jonny Fairplay' Dalton", "Age": 29, "seasonName": "Pearl Islands", "livingLocationCity": "Danville", "livingLocationState": "VA", "finish": 3}
 {"contestantName": "Lillian Morris", "Age": 51, "seasonName": "Pearl Islands", "livingLocationCity": "Cincinnati", "livingLocationState": "OH", "finish": 2}
 {"contestantName": "Sandra Diaz-Twine", "Age": 29, "seasonName": "Pearl Islands", "livingLocationCity": "Fort Lewis", "livingLocationState": "WA", "finish": 1}
-//////////////////////All Stars/////////////////////////////////////////////////
 {"contestantName": "Tina Wesson", "Age": 42, "seasonName": "All-Stars", "livingLocationCity": "Knoxville", "livingLocationState": "TN", "finish": 18}
 {"contestantName": "Rudy Boesch", "Age": 75, "seasonName": "All-Stars", "livingLocationCity": "Virginia Beach", "livingLocationState": "VA", "finish":17}
 {"contestantName": "Jenna Morasca", "Age": 22, "seasonName": "All-Stars", "livingLocationCity": "Pittsburgh", "livingLocationState": "PA", "finish": 16}
 {"contestantName": "Rob Cesternino", "Age": 25, "seasonName": "All-Stars", "livingLocationCity": "Wantagh", "livingLocationState": "NY", "finish": 15}
-{"contestantName": "Richard Hatch",  42, "seasonName": "All-Stars", "livingLocationCity": "Newport", "livingLocationState": "RI", "finish": 14}
+{"contestantName": "Richard Hatch", "Age": 42, "seasonName": "All-Stars", "livingLocationCity": "Newport", "livingLocationState": "RI", "finish": 14}
 {"contestantName": "Susan Hawk", "Age": 42, "seasonName": "All-Stars", "livingLocationCity": "Palmyra", "livingLocationState": "WI", "finish": 13}
 {"contestantName": "Colby Donaldson", "Age": 29, "seasonName": "All-Stars", "livingLocationCity": "Dallas", "livingLocationState": "TX", "finish": 12}
 {"contestantName": "Ethan Zohn ", "Age": 30, "seasonName": "All-Stars", "livingLocationCity": "Lexington", "livingLocationState": "MA", "finish": 11}
@@ -135,14 +128,13 @@
 {"contestantName": "Jenna Lewis", "Age": 26, "seasonName": "All-Stars", "livingLocationCity": "Franklin", "livingLocationState": "NH", "finish": 3}
 {"contestantName": "Rob Mariano", "Age": 28, "seasonName": "All-Stars", "livingLocationCity": "Canton", "livingLocationState": "MA", "finish": 2}
 {"contestantName": "Amber Brkich", "Age": 25, "seasonName": "All-Stars", "livingLocationCity": "Beaver", "livingLocationState": "PA", "finish": 1}
-///////////////Vanuatu//////////////////
 {"contestantName": "Brook Geraghty", "Age": 33, "seasonName": "Vanuatu", "livingLocationCity": "Huntington Beach", "livingLocationState": "CA", "finish": 18}
 {"contestantName": "Dolly Neely", "Age": 25, "seasonName": "Vanuatu", "livingLocationCity": "Mercer", "livingLocationState": "PA", "finish": 17}
 {"contestantName": "John 'J.P.' Palyok", "Age": 31, "seasonName": "Vanuatu", "livingLocationCity": "Los Angeles", "livingLocationState": "CA", "finish": 16}
 {"contestantName": "Mia Galeotalanza", "Age": 30, "seasonName": "Vanuatu", "livingLocationCity": "Toms River", "livingLocationState": "NJ", "finish": 15}
 {"contestantName": "Brady Finta", "Age": 33, "seasonName": "Vanuatu", "livingLocationCity": "Huntington Beach", "livingLocationState": "CA", "finish":	14}
 {"contestantName": "Travis 'Bubba' Sampson", "Age": 33, "seasonName": "Vanuatu", "livingLocationCity": "Blountville", "livingLocationState": "TN", "finish": 13}
-{"contestantName": "Lisa Keiffer",  44, "seasonName": "Vanuatu", "livingLocationCity": "New Orleans", "livingLocationState": "LA", "finish": 12}
+{"contestantName": "Lisa Keiffer", "Age": 44, "seasonName": "Vanuatu", "livingLocationCity": "New Orleans", "livingLocationState": "LA", "finish": 12}
 {"contestantName": "John Kenney", "Age": 22, "seasonName": "Vanuatu", "livingLocationCity": "Los Angeles", "livingLocationState": "CA", "finish": 11}
 {"contestantName": "Rory Freeman", "Age": 35, "seasonName": "Vanuatu", "livingLocationCity": "Des Moines", "livingLocationState": "IA", "finish": 10}
 {"contestantName": "Lea 'Sarge' Masters", "Age": 40, "seasonName": "Vanuatu", "livingLocationCity": "Columbia", "livingLocationState": "SC", "finish": 9}
@@ -154,7 +146,6 @@
 {"contestantName": "Scout Cloud Lee", "Age": 59, "seasonName": "Vanuatu", "livingLocationCity": "Stillwater", "livingLocationState": "OK", "finish": 3}
 {"contestantName": "Twila Tanner", "Age": 41, "seasonName": "Vanuatu", "livingLocationCity": "Marshall", "livingLocationState": "MO", "finish": 2}
 {"contestantName": "Chris Daugherty", "Age": 33, "seasonName": "Vanuatu", "livingLocationCity": "South Vienna", "livingLocationState": "OH", "finish": 1}
-////////////////Palau/////////////////////
 {"contestantName": "Jonathan Libb", "Age": 23, "seasonName": "Palau", "livingLocationCity": "Dallas", "livingLocationState": "TX", "finish":20}
 {"contestantName": "Wanda Shirk", "Age": 55, "seasonName": "Palau", "livingLocationCity": "Ulysses", "livingLocationState": "PA", "finish": 19}
 {"contestantName": "Jolanda Jones", "Age": 39, "seasonName": "Palau", "livingLocationCity": "Houston", "livingLocationState": "TX", "finish": 18}
@@ -175,7 +166,6 @@
 {"contestantName": "Ian Rosenberger", "Age": 23, "seasonName": "Palau", "livingLocationCity": "Key Largo", "livingLocationState": "FL", "finish":3}
 {"contestantName": "Katie Gallagher", "Age": 29, "seasonName": "Palau", "livingLocationCity": "Merced", "livingLocationState": "CA", "finish": 2}
 {"contestantName": "Tom Westman", "Age": 41, "seasonName": "Palau", "livingLocationCity": "Sayville", "livingLocationState": "NY", "finish": 1}
-//////////////////////Guatemala////////////////
 {"contestantName": "Jim Lynch", "Age": 63, "seasonName": "Guatemala", "livingLocationCity": "Northglenn", "livingLocationState": "CO", "finish": 18}
 {"contestantName": "Morgan McDevitt", "Age": 21, "seasonName": "Guatemala", "livingLocationCity": "Decatur", "livingLocationState": "IL", "finish": 17}
 {"contestantName": "Brianna Varela", "Age": 21, "seasonName": "Guatemala", "livingLocationCity": "Edmonds", "livingLocationState": "WA", "finish": 16}
@@ -194,7 +184,6 @@
 {"contestantName": "Rafe Judkins", "Age": 22, "seasonName": "Guatemala", "livingLocationCity": "Providence", "livingLocationState": "RI", "finish": 3}
 {"contestantName": "Stephenie LaGrossa", "Age": 25, "seasonName": "Guatemala", "livingLocationCity": "Philadelphia", "livingLocationState": "PA", "finish": 2}
 {"contestantName": "Danni Boatwright", "Age": 30, "seasonName": "Guatemala", "livingLocationCity": "Tonganoxie", "livingLocationState": "KS", "finish": 1}
-///////////Panama///////////////////////
 {"contestantName": "Tina Scheer", "Age": 45, "seasonName": "Panama", "livingLocationCity": "Hayward", "livingLocationState": "WI", "finish": 16}
 {"contestantName": "Melinda Hyder", "Age": 32, "seasonName": "Panama", "livingLocationCity": "Sevierville", "livingLocationState": "TN", "finish": 15}
 {"contestantName": "Misty Giles", "Age": 24, "seasonName": "Panama", "livingLocationCity": "Dallas", "livingLocationState": "TX", "finish": 14}
@@ -211,7 +200,6 @@
 {"contestantName": "Terry Deitz", "Age": 46, "seasonName": "Panama", "livingLocationCity": "Simsbury", "livingLocationState": "CT", "finish": 3}
 {"contestantName": "Danielle DiLorenzo", "Age": 24, "seasonName": "Panama", "livingLocationCity": "Pompano Beach", "livingLocationState": "FL", "finish": 2}
 {"contestantName": "Aras Baskauskas", "Age": 24, "seasonName": "Panama", "livingLocationCity": "Santa Monica", "livingLocationState": "CA", "finish": 1}
-////////Cook Islands////////////
 {"contestantName": "Sekou Bunch", "Age": 46, "seasonName": "Cook Islands", "livingLocationCity": "Los Angeles", "livingLocationState": "CA", "finish": 20}
 {"contestantName": "Billy Garcia", "Age": 36, "seasonName": "Cook Islands", "livingLocationCity": "New York", "livingLocationState": "NY", "finish": 19}
 {"contestantName": "Cecilia Mansilla", "Age": 29, "seasonName": "Cook Islands", "livingLocationCity": "Oakland", "livingLocationState": "CA", "finish": 18}
@@ -232,7 +220,6 @@
 {"contestantName": "Becky Lee", "Age": 28, "seasonName": "Cook Islands", "livingLocationCity": "Washington", "livingLocationState": "D.C.", "finish": 3}
 {"contestantName": "Ozzy Lusth", "Age": 25, "seasonName": "Cook Islands", "livingLocationCity": "Venice", "livingLocationState": "CA", "finish": 2}
 {"contestantName": "Yul Kwon", "Age": 31, "seasonName": "Cook Islands", "livingLocationCity": "San Mateo", "livingLocationState": "CA", "finish": 1}
-///////////////////Fiji/////////////
 {"contestantName": "Jessica deBen", "Age": 27, "seasonName": "Fiji", "livingLocationCity": "Los Angeles", "livingLocationState": "CA", "finish": 19}
 {"contestantName": "Erica Durosseau", "Age": 27, "seasonName": "Fiji", "livingLocationCity": "Lake Charles", "livingLocationState": "LA", "finish": 18}
 {"contestantName": "Sylvia Kwan", "Age": 52, "seasonName": "Fiji", "livingLocationCity": "Ross", "livingLocationState": "CA", "finish": 17}
@@ -252,7 +239,6 @@
 {"contestantName": "Cassandra Franklin", "Age": 42, "seasonName": "Fiji", "livingLocationCity": "Los Angeles", "livingLocationState": "CA", "finish": 3}
 {"contestantName": "Andria (Dre) 'Dreamz' Herd", "Age": 25, "seasonName": "Fiji", "livingLocationCity": "Wilmington", "livingLocationState": "NC", "finish": 2}
 {"contestantName": "Earl Cole", "Age": 35, "seasonName": "Fiji", "livingLocationCity": "Santa Monica", "livingLocationState": "CA", "finish": 1}
-/////////////China///////////////////////
 {"contestantName": "Steve 'Chicken' Morris", "Age": 48, "seasonName": "China", "livingLocationCity": "Marion", "livingLocationState": "VA", "finish": 16}
 {"contestantName": "Ashley Massaro", "Age": 28, "seasonName": "China", "livingLocationCity": "East Northport", "livingLocationState": "NY", "finish": 15}
 {"contestantName": "Leslie Nease", "Age": 38, "seasonName": "China", "livingLocationCity": "Tega Cay", "livingLocationState": "SC", "finish": 14}
@@ -269,7 +255,6 @@
 {"contestantName": "Amanda Kimmel", "Age": 23, "seasonName": "China", "livingLocationCity": "Kalispell", "livingLocationState": "MT", "finish": 3}
 {"contestantName": "Courtney Yates", "Age": 26, "seasonName": "China", "livingLocationCity": "New York", "livingLocationState": "NY", "finish": 2}
 {"contestantName": "Todd Herzog", "Age": 22, "seasonName": "China", "livingLocationCity": "Pleasant Grove", "livingLocationState": "UT", "finish": 1}
-//////////Micronesia///////////////////
 {"contestantName": "Jon 'Jonny Fairplay' Dalton", "Age": 33, "seasonName": "Micronesia", "livingLocationCity": "Danville", "livingLocationState": "VA", "finish": 20}
 {"contestantName": "Mary Sartain", "Age": 29, "seasonName": "Micronesia", "livingLocationCity": "Emeryville", "livingLocationState": "CA", "finish": 19}
 {"contestantName": "Yau-Man Chan", "Age": 55, "seasonName": "Micronesia", "livingLocationCity": "Martinez", "livingLocationState": "CA", "finish": 18}
@@ -290,9 +275,6 @@
 {"contestantName": "Cirie Fields", "Age": 37, "seasonName": "Micronesia", "livingLocationCity": "Norwalk", "livingLocationState": "CT", "finish": 3}
 {"contestantName": "Amanda Kimmel", "Age": 23, "seasonName": "Micronesia", "livingLocationCity": "Los Angeles", "livingLocationState": "CA", "finish": 2}
 {"contestantName": "Parvati Shallow", "Age": 25, "seasonName": "Micronesia", "livingLocationCity": "Los Angeles", "livingLocationState": "CA", "finish": 1}
-
-//////////////NEED TO PUT IN C9///////////////
-/////////////////////Gabon//////////////////
 {"contestantName": "Michelle Chase", "Age": 24, "seasonName": "Gabon", "livingLocationCity": "Los Angeles", "livingLocationState": "CA", "finish": 18}
 {"contestantName": "Gillian Larson", "Age": 61, "seasonName": "Gabon", "livingLocationCity": " Temecula", "livingLocationState": "CA", "finish": 17}
 {"contestantName": "Paloma Soto-Castillo", "Age": 24, "seasonName": "Gabon", "livingLocationCity": "Downey", "livingLocationState": "CA", "finish": 16}
@@ -308,10 +290,9 @@
 {"contestantName": "Crystal Cox", "Age": 29, "seasonName": "Gabon", "livingLocationCity": "Durham", "livingLocationState": "NC", "finish": 6}
 {"contestantName": "Ken Hoang", "Age": 22, "seasonName": "Gabon", "livingLocationCity": "Westminster", "livingLocationState": "CA", "finish": 5}
 {"contestantName": "Matty Whitmore", "Age": 29, "seasonName": "Gabon", "livingLocationCity": "Pacific Palisades", "livingLocationState": "CA", "finish": 4}
-{"contestantName": "Jessica "Sugar" Kiper", "Age": 29, "seasonName": "Gabon", "livingLocationCity": "Brooklyn", "livingLocationState": "NY", "finish": 3}
+{"contestantName": "Jessica 'Sugar' Kiper", "Age": 29, "seasonName": "Gabon", "livingLocationCity": "Brooklyn", "livingLocationState": "NY", "finish": 3}
 {"contestantName": "Susie Smith", "Age": 47, "seasonName": "Gabon", "livingLocationCity": "Charles City", "livingLocationState": "IA", "finish": 2}
-{"contestantName": "Robert "Bob" Crowley", "Age": 57, "seasonName": "Gabon", "livingLocationCity": "Portland", "livingLocationState": "ME", "finish": 1}
-///////////Tocantins////////////////
+{"contestantName": "Robert 'Bob' Crowley", "Age": 57, "seasonName": "Gabon", "livingLocationCity": "Portland", "livingLocationState": "ME", "finish": 1}
 {"contestantName": "Carolina Eastwood", "Age": 26, "seasonName": "Tocantins", "livingLocationCity": "West Hollywood", "livingLocationState": "CA", "finish": 16}
 {"contestantName": "Candace Smith", "Age": 31, "seasonName": "Tocantins", "livingLocationCity": "Dayton", "livingLocationState": "OH", "finish": 15}
 {"contestantName": "Jerry Sims", "Age": 49, "seasonName": "Tocantins", "livingLocationCity": "Rock Hill", "livingLocationState": "SC", "finish": 14}
@@ -328,7 +309,6 @@
 {"contestantName": "Erinn Lobdell", "Age": 26, "seasonName": "Tocantins", "livingLocationCity": "Waukesha", "livingLocationState": "WI", "finish": 3}
 {"contestantName": "Stephen Fishbach", "Age": 29, "seasonName": "Tocantins", "livingLocationCity": "New York", "livingLocationState": "NY", "finish": 2}
 {"contestantName": "James 'J.T.' Thomas, Jr.", "Age": 24, "seasonName": "Tocantins", "livingLocationCity": "Samson", "livingLocationState": "AL", "finish": 1}
-//////////////Samoa//////////////////////////
 {"contestantName": "Marisa Calihan", "Age": 26, "seasonName": "Samoa", "livingLocationCity": "Cincinnati", "livingLocationState": "OH", "finish": 20}
 {"contestantName": "Mike Borassi", "Age": 62, "seasonName": "Samoa", "livingLocationCity": "Marina del Rey", "livingLocationState": "CA", "finish": 19}
 {"contestantName": "Betsy Bolan", "Age": 48, "seasonName": "Samoa", "livingLocationCity": "Campton", "livingLocationState": "NH", "finish": 18}
@@ -349,8 +329,7 @@
 {"contestantName": "Mick Trimming", "Age": 33, "seasonName": "Samoa", "livingLocationCity": "Los Angeles", "livingLocationState": "CA", "finish": 3}
 {"contestantName": "Russell Hantz", "Age": 36, "seasonName": "Samoa", "livingLocationCity": "Dayton", "livingLocationState": "TX", "finish": 2}
 {"contestantName": "Natalie White", "Age": 26, "seasonName": "Samoa", "livingLocationCity": "Van Buren", "livingLocationState": "AR", "finish": 1}
-//////////////Heroes vs. Villains//////////////
-{"contestantName": "Jessica 'Sugar' Kiper", "Age": 30, "seasonName": "Heroes vs. Villains", "livingLocationCity": "Los Angeles", "livingLocationState": "CA	Heroes vs. Villains	20}
+{"contestantName": "Jessica 'Sugar' Kiper", "Age": 30, "seasonName": "Heroes vs. Villains", "livingLocationCity": "Los Angeles", "livingLocationState": "CA", "finish":	20}
 {"contestantName": "Stephenie LaGrossa", "Age": 29, "seasonName": "Heroes vs. Villains", "livingLocationCity": "Philadelphia", "livingLocationState": "PA", "finish": 19}
 {"contestantName": "Randy Bailey", "Age": 50, "seasonName": "Heroes vs. Villains", "livingLocationCity": "Eagle Rock", "livingLocationState": "MO", "finish": 18}
 {"contestantName": "Cirie Fields", "Age": 39, "seasonName": "Heroes vs. Villains", "livingLocationCity": "Norwalk", "livingLocationState": "CT", "finish": 17}
@@ -370,7 +349,6 @@
 {"contestantName": "Russell Hantz", "Age": 36, "seasonName": "Heroes vs. Villains", "livingLocationCity": "Dayton", "livingLocationState": "TX", "finish": 3}
 {"contestantName": "Parvati Shallow", "Age": 27, "seasonName": "Heroes vs. Villains", "livingLocationCity": "Los Angeles", "livingLocationState": "CA", "finish": 2}
 {"contestantName": "Sandra Diaz-Twine", "Age": 35, "seasonName": "Heroes vs. Villains", "livingLocationCity": "Fayetteville", "livingLocationState": "NC", "finish": 1}
-////////////Nicaragua//////////////
 {"contestantName": "Wendy Jo DeSmidt-Kohlhoff", "Age": 48, "seasonName": "Nicaragua", "livingLocationCity": "Fromberg", "livingLocationState": "MT", "finish": 20}
 {"contestantName": "Shannon Elkins", "Age": 30, "seasonName": "Nicaragua", "livingLocationCity": "Lafayette", "livingLocationState": "LA", "finish": 19}
 {"contestantName": "Jimmy Johnson", "Age": 67, "seasonName": "Nicaragua", "livingLocationCity": "Islamorada", "livingLocationState": "FL", "finish": 18}
@@ -391,7 +369,6 @@
 {"contestantName": "Matthew 'Sash' Lenahan", "Age": 30, "seasonName": "Nicaragua", "livingLocationCity": "New York", "livingLocationState": "NY", "finish": 3}
 {"contestantName": "Chase Rice", "Age": 24, "seasonName": "Nicaragua", "livingLocationCity": "Fairview", "livingLocationState": "NC", "finish": 2}
 {"contestantName": "Jud 'Fabio' Birza", "Age": 21, "seasonName": "Nicaragua", "livingLocationCity": "Venice", "livingLocationState": "CA", "finish": 1}
-//////////////Redemption Island/////////////////
 {"contestantName": "Francesca Hogi", "Age": 36, "seasonName": "Redemption Island", "livingLocationCity": "Washington", "livingLocationState": "D.C.", "finish": 18}
 {"contestantName": "Russell Hantz", "Age": 38, "seasonName": "Redemption Island", "livingLocationCity": "Dayton", "livingLocationState": "TX", "finish": 17}
 {"contestantName": "Kristina Kell", "Age": 46, "seasonName": "Redemption Island", "livingLocationCity": "Malibu", "livingLocationState": "CA", "finish": 16}
@@ -410,7 +387,6 @@
 {"contestantName": "Natalie Tenerelli", "Age": 19, "seasonName": "Redemption Island", "livingLocationCity": "Acton", "livingLocationState": "CA", "finish": 3}
 {"contestantName": "Phillip Sheppard", "Age": 52, "seasonName": "Redemption Island", "livingLocationCity": "Santa Monica", "livingLocationState": "CA", "finish": 2}
 {"contestantName": "Rob Mariano", "Age": 34, "seasonName": "Redemption Island", "livingLocationCity": "Pensacola", "livingLocationState": "FL", "finish": 1}
-///////////South Pacific//////////////
 {"contestantName": "Semhar Tadesse", "Age": 24, "seasonName": "South Pacific", "livingLocationCity": "Los Angeles", "livingLocationState": "CA", "finish": 18}
 {"contestantName": "Mark 'Papa Bear' Caruso", "Age": 48, "seasonName": "South Pacific", "livingLocationCity": "Forest Hills", "livingLocationState": "NY", "finish": 17}
 {"contestantName": "Stacey Powell", "Age": 44, "seasonName": "South Pacific", "livingLocationCity": "Grand Prairie", "livingLocationState": "TX", "finish": 16}
@@ -447,7 +423,6 @@
 {"contestantName": "Chelsea Meissner", "Age": 26, "seasonName": "South Pacific", "livingLocationCity": "Charleston", "livingLocationState": "SC", "finish": 3}
 {"contestantName": "Sabrina Thompson", "Age": 33, "seasonName": "South Pacific", "livingLocationCity": "Brooklyn", "livingLocationState": "NY", "finish": 2}
 {"contestantName": "Kim Spradlin", "Age": 29, "seasonName": "South Pacific", "livingLocationCity": "San Antonio", "livingLocationState": "TX", "finish": 1}
-/////////Philippines/////////
 {"contestantName": "Zane Knight", "Age": 28, "seasonName": "Philippines", "livingLocationCity": "Danville", "livingLocationState": "VA", "finish": 18}
 {"contestantName": "Roxanne “Roxy” Morris", "Age": 28, "seasonName": "Philippines", "livingLocationCity": "Brooklyn", "livingLocationState": "NY", "finish": 17}
 {"contestantName": "Angie Layton", "Age": 20, "seasonName": "Philippines", "livingLocationCity": "Provo", "livingLocationState": "UT", "finish": 16}
@@ -466,28 +441,26 @@
 {"contestantName": "Lisa Whelchel", "Age": 49, "seasonName": "Philippines", "livingLocationCity": "Dallas", "livingLocationState": "TX", "finish": 3}
 {"contestantName": "Michael Skupin", "Age": 50, "seasonName": "Philippines", "livingLocationCity": "White Lake", "livingLocationState": "MI", "finish": 2}
 {"contestantName": "Denise Stapley", "Age": 41, "seasonName": "Philippines", "livingLocationCity": "Cedar Rapids", "livingLocationState": "IA", "finish": 1}
-/////////Caramoan/////////////
-{"contestantName": "Francesca Hogi", "Age": 38, "seasonName": "Caramoan", "livingLocationCity": "Brooklyn", "livingLocationState": "NY	Caramoan	20}
-{"contestantName": "Alexandra "Allie" Pohevitz", "Age": 25, "seasonName": "Caramoan", "livingLocationCity": "Oceanside", "livingLocationState": "NY	Caramoan	19}
-{"contestantName": "Hope Driskill", "Age": 23, "seasonName": "Caramoan", "livingLocationCity": "Jefferson City", "livingLocationState": "MO	Caramoan	18}
-{"contestantName": "Shamar Thomas", "Age": 27, "seasonName": "Caramoan", "livingLocationCity": "Brooklyn", "livingLocationState": "NY	Caramoan	17}
-{"contestantName": "Laura Alexander", "Age": 23, "seasonName": "Caramoan", "livingLocationCity": "Washington D.C.", "livingLocationState": "Caramoan	16}
-{"contestantName": "Brandon Hantz", "Age": 21, "seasonName": "Caramoan", "livingLocationCity": "Katy", "livingLocationState": "TX	Caramoan	15}
-{"contestantName": "Matt Bischoff", "Age": 38, "seasonName": "Caramoan", "livingLocationCity": "Cincinnati", "livingLocationState": "OH	Caramoan	14}
-{"contestantName": "Julia Landauer", "Age": 21, "seasonName": "Caramoan", "livingLocationCity": "Stanford", "livingLocationState": "CA	Caramoan	13}
-{"contestantName": "Corinne Kaplan", "Age": 33, "seasonName": "Caramoan", "livingLocationCity": "Los Angeles", "livingLocationState": "CA	Caramoan	12}
-{"contestantName": "Michael Snow", "Age": 44, "seasonName": "Caramoan", "livingLocationCity": "New York", "livingLocationState": "NY	Caramoan	11}
-{"contestantName": "Phillip Sheppard", "Age": 54, "seasonName": "Caramoan", "livingLocationCity": "Santa Monica", "livingLocationState": "CA	Caramoan	10}
-{"contestantName": "Malcolm Freberg", "Age": 26, "seasonName": "Caramoan", "livingLocationCity": "Hermosa Beach", "livingLocationState": "CA	Caramoan	9}
-{"contestantName": "Reynold Toepfer", "Age": 30, "seasonName": "Caramoan", "livingLocationCity": "San Francisco", "livingLocationState": "CA	Caramoan	8}
-{"contestantName": "Andrea Boehlke", "Age": 23, "seasonName": "Caramoan", "livingLocationCity": "New York", "livingLocationState": "NY	Caramoan	7}
-{"contestantName": "Brenda Lowe", "Age": 30, "seasonName": "Caramoan", "livingLocationCity": "Miami", "livingLocationState": "FL	Caramoan	6}
-{"contestantName": "Erik Reichenbach", "Age": 27, "seasonName": "Caramoan", "livingLocationCity": "Santa Clarita", "livingLocationState": "CA	Caramoan	5}
-{"contestantName": "Edward 'Eddie' Fox", "Age": 23, "seasonName": "Caramoan", "livingLocationCity": "East Brunswick", "livingLocationState": "NJ	Caramoan	4}
-{"contestantName": "Sherri Biethman", "Age": 41, "seasonName": "Caramoan", "livingLocationCity": "Boise", "livingLocationState": "ID	Caramoan 3}
-{"contestantName": "Dawn Meehan", "Age": 42, "seasonName": "Caramoan", "livingLocationCity": "South Jordan", "livingLocationState": "UT	Caramoan 2}
-{"contestantName": "John Cochran", "Age": 25, "seasonName": "Caramoan", "livingLocationCity": "Washington D.C.", "livingLocationState": "Caramoan	1}
-//////////////Blood vs. Water//////////////////
+{"contestantName": "Francesca Hogi", "Age": 38, "seasonName": "Caramoan", "livingLocationCity": "Brooklyn", "livingLocationState": "NY", "finish": 20}
+{"contestantName": "Alexandra 'Allie' Pohevitz", "Age": 25, "seasonName": "Caramoan", "livingLocationCity": "Oceanside", "livingLocationState": "NY", "finish":19}
+{"contestantName": "Hope Driskill", "Age": 23, "seasonName": "Caramoan", "livingLocationCity": "Jefferson City", "livingLocationState": "MO", "finish":	18}
+{"contestantName": "Shamar Thomas", "Age": 27, "seasonName": "Caramoan", "livingLocationCity": "Brooklyn", "livingLocationState": "NY", "finish":	17}
+{"contestantName": "Laura Alexander", "Age": 23, "seasonName": "Caramoan", "livingLocationCity": "Washington D.C.", "finish":	16}
+{"contestantName": "Brandon Hantz", "Age": 21, "seasonName": "Caramoan", "livingLocationCity": "Katy", "livingLocationState": "TX", "finish":	15}
+{"contestantName": "Matt Bischoff", "Age": 38, "seasonName": "Caramoan", "livingLocationCity": "Cincinnati", "livingLocationState": "OH", "finish":	14}
+{"contestantName": "Julia Landauer", "Age": 21, "seasonName": "Caramoan", "livingLocationCity": "Stanford", "livingLocationState": "CA", "finish":	13}
+{"contestantName": "Corinne Kaplan", "Age": 33, "seasonName": "Caramoan", "livingLocationCity": "Los Angeles", "livingLocationState": "CA", "finish":	12}
+{"contestantName": "Michael Snow", "Age": 44, "seasonName": "Caramoan", "livingLocationCity": "New York", "livingLocationState": "NY", "finish":	11}
+{"contestantName": "Phillip Sheppard", "Age": 54, "seasonName": "Caramoan", "livingLocationCity": "Santa Monica", "livingLocationState": "CA", "finish":	10}
+{"contestantName": "Malcolm Freberg", "Age": 26, "seasonName": "Caramoan", "livingLocationCity": "Hermosa Beach", "livingLocationState": "CA", "finish":9}
+{"contestantName": "Reynold Toepfer", "Age": 30, "seasonName": "Caramoan", "livingLocationCity": "San Francisco", "livingLocationState": "CA", "finish":8}
+{"contestantName": "Andrea Boehlke", "Age": 23, "seasonName": "Caramoan", "livingLocationCity": "New York", "livingLocationState": "NY", "finish":	7}
+{"contestantName": "Brenda Lowe", "Age": 30, "seasonName": "Caramoan", "livingLocationCity": "Miami", "livingLocationState": "FL", "finish":6}
+{"contestantName": "Erik Reichenbach", "Age": 27, "seasonName": "Caramoan", "livingLocationCity": "Santa Clarita", "livingLocationState": "CA", "finish": 5}
+{"contestantName": "Edward 'Eddie' Fox", "Age": 23, "seasonName": "Caramoan", "livingLocationCity": "East Brunswick", "livingLocationState": "NJ", "finish":	4}
+{"contestantName": "Sherri Biethman", "Age": 41, "seasonName": "Caramoan", "livingLocationCity": "Boise", "livingLocationState": "ID", "finish":3}
+{"contestantName": "Dawn Meehan", "Age": 42, "seasonName": "Caramoan", "livingLocationCity": "South Jordan", "livingLocationState": "UT", "finish":2}
+{"contestantName": "John Cochran", "Age": 25, "seasonName": "Caramoan", "livingLocationCity": "Washington D.C.", "finish": 1}
 {"contestantName": "Rupert Boneham", "Age": 49, "seasonName": "Blood vs. Water", "livingLocationCity": "Indianapolis", "livingLocationState": "IN", "finish": 20}
 {"contestantName": "Colton Cumbie", "Age": 22, "seasonName": "Blood vs. Water", "livingLocationCity": "Monroeville", "livingLocationState": "AL", "finish": 19}
 {"contestantName": "Rachel Foulger", "Age": 33, "seasonName": "Blood vs. Water", "livingLocationCity": "Orem", "livingLocationState": "UT", "finish": 18}
@@ -508,8 +481,6 @@
 {"contestantName": "Gervase Peterson", "Age": 43, "seasonName": "Blood vs. Water", "livingLocationCity": "Willingboro", "livingLocationState": "NJ", "finish": 3}
 {"contestantName": "Monica Culpepper", "Age": 42, "seasonName": "Blood vs. Water", "livingLocationCity": "Tampa", "livingLocationState": "FL", "finish": 2}
 {"contestantName": "Tyson Apostol", "Age": 34, "seasonName": "Blood vs. Water", "livingLocationCity": "Heber", "livingLocationState": "UT", "finish": 1}
-
-//////////////////Cagayan///////////////////
 {"contestantName": "David Samson", "Age": 45, "seasonName": "Cagayan", "livingLocationCity": "Plantation", "livingLocationState": "FL", "finish": 18}
 {"contestantName": "Garrett Adelstein", "Age": 27, "seasonName": "Cagayan", "livingLocationCity": "Santa Monica", "livingLocationState": "CA", "finish": 17}
 {"contestantName": "Brice Johnston", "Age": 27, "seasonName": "Cagayan", "livingLocationCity": "Philadelphia", "livingLocationState": "PA", "finish": 16}
@@ -527,8 +498,7 @@
 {"contestantName": "Spencer Bledsoe", "Age": 21, "seasonName": "Cagayan", "livingLocationCity": "Chicago", "livingLocationState": "IL", "finish": 4}
 {"contestantName": "Kass McQuillen", "Age": 41, "seasonName": "Cagayan", "livingLocationCity": "Tehachapi", "livingLocationState": "CA", "finish": 3}
 {"contestantName": "Woo Hwang", "Age": 29, "seasonName": "Cagayan", "livingLocationCity": "Newport Beach", "livingLocationState": "CA", "finish": 2}
-{"contestantName": "Tony Vlachos", "Age": 39, "seasonName": "Cagayan", "livingLocationCity": "Jersey City", "livingLocationState": "NJ", "finish": 1}
-////////////////////San Juan del Sur////////////
+{"contestantName": "Tony Vlachos", "Age": 39, "seasonName": "Cagayan", "livingLocationCity": "Jersey City", "livingLocationState": "NJ", "finish": 1} 
 {"contestantName": "Nadiya Anderson", "Age": 28, "seasonName": "San Juan del Sur", "livingLocationCity": "Edgewater", "livingLocationState": "NJ", "finish": 18}
 {"contestantName": "Val Collins", "Age": 35, "seasonName": "San Juan del Sur", "livingLocationCity": "Foxborough", "livingLocationState": "MA", "finish": 17}
 {"contestantName": "John Rocker", "Age": 39, "seasonName": "San Juan del Sur", "livingLocationCity": "Atlanta", "livingLocationState": "GA", "finish": 16}
@@ -546,8 +516,7 @@
 {"contestantName": "Keith Nale", "Age": 53, "seasonName": "San Juan del Sur", "livingLocationCity": "Shreveport", "livingLocationState": "LA", "finish": 4}
 {"contestantName": "Missy Payne", "Age": 47, "seasonName": "San Juan del Sur", "livingLocationCity": "Dallas", "livingLocationState": "TX", "finish": 3}
 {"contestantName": "Jaclyn Schultz", "Age": 25, "seasonName": "San Juan del Sur", "livingLocationCity": "Las Vegas", "livingLocationState": "NV", "finish": 2}
-{"contestantName": "Natalie Anderson", "Age": 28, "seasonName": "San Juan del Sur", "livingLocationCity": "Edgewater", "livingLocationState": "NJ", "finish": 1}
-////////////////Worlds Apart/////////////
+{"contestantName": "Natalie Anderson", "Age": 28, "seasonName": "San Juan del Sur", "livingLocationCity": "Edgewater", "livingLocationState": "NJ", "finish": 1} 
 {"contestantName": "So Kim", "Age": 31, "seasonName": "Worlds Apart", "livingLocationCity": "Long Beach", "livingLocationState": "CA", "finish": 18}
 {"contestantName": "Vince Sly", "Age": 32, "seasonName": "Worlds Apart", "livingLocationCity": "Santa Monica", "livingLocationState": "CA", "finish": 17}
 {"contestantName": "Nina Poersch", "Age": 51, "seasonName": "Worlds Apart", "livingLocationCity": "Palmdale", "livingLocationState": "CA", "finish": 16}
@@ -565,8 +534,7 @@
 {"contestantName": "Rodney Lavoie, Jr.", "Age": 24, "seasonName": "Worlds Apart", "livingLocationCity": "Boston", "livingLocationState": "MA", "finish": 4}
 {"contestantName": "Will Sims II", "Age": 41, "seasonName": "Worlds Apart", "livingLocationCity": "Sherman Oaks", "livingLocationState": "CA", "finish": 3}
 {"contestantName": "Carolyn Rivera", "Age": 52, "seasonName": "Worlds Apart", "livingLocationCity": "Tampa", "livingLocationState": "FL", "finish": 2}
-{"contestantName": "Mike Holloway", "Age": 38, "seasonName": "Worlds Apart", "livingLocationCity": "North Richland Hills", "livingLocationState": "TX", "finish": 1}
-////////////////Cambodia/////////////////
+{"contestantName": "Mike Holloway", "Age": 38, "seasonName": "Worlds Apart", "livingLocationCity": "North Richland Hills", "livingLocationState": "TX", "finish": 1} 
 {"contestantName": "Vytas Baskauskas", "Age": 35, "seasonName": "Cambodia", "livingLocationCity": "Santa Monica", "livingLocationState": "CA", "finish": 20}
 {"contestantName": "Shirin Oskooi", "Age": 32, "seasonName": "Cambodia", "livingLocationCity": "San Francisco", "livingLocationState": "CA", "finish": 19}
 {"contestantName": "Peih-Gee Law", "Age": 37, "seasonName": "Cambodia", "livingLocationCity": "San Francisco", "livingLocationState": "CA", "finish": 18}
@@ -586,8 +554,7 @@
 {"contestantName": "Kelley Wentworth", "Age": 29, "seasonName": "Cambodia", "livingLocationCity": "Seattle", "livingLocationState": "WA", "finish": 4}
 {"contestantName": "Spencer Bledsoe", "Age": 22, "seasonName": "Cambodia", "livingLocationCity": "Chicago", "livingLocationState": "IL", "finish": 3}
 {"contestantName": "Tasha Fox", "Age": 39, "seasonName": "Cambodia", "livingLocationCity": "St. Louis", "livingLocationState": "MO", "finish": 2}
-{"contestantName": "Jeremy Collins", "Age": 37, "seasonName": "Cambodia", "livingLocationCity": "Foxborough", "livingLocationState": "MA", "finish": 1}
-////////////////Kaoh Rong/////////////////
+{"contestantName": "Jeremy Collins", "Age": 37, "seasonName": "Cambodia", "livingLocationCity": "Foxborough", "livingLocationState": "MA", "finish": 1} 
 {"contestantName": "Darnell Hamilton", "Age": 27, "seasonName": "Kaôh Rōng", "livingLocationCity": "Chicago", "livingLocationState": "IL", "finish": 18}
 {"contestantName": "Jennifer Lanzetti", "Age": 38, "seasonName": "Kaôh Rōng", "livingLocationCity": "Salt Lake City", "livingLocationState": "UT", "finish": 17}
 {"contestantName": "Liz Markham", "Age": 27, "seasonName": "Kaôh Rōng", "livingLocationCity": "Brooklyn", "livingLocationState": "NY", "finish": 16}
@@ -605,8 +572,7 @@
 {"contestantName": "Cydney Gillon", "Age": 23, "seasonName": "Kaôh Rōng", "livingLocationCity": "Douglasville", "livingLocationState": "GA", "finish": 4}
 {"contestantName": "Tai Trang", "Age": 51, "seasonName": "Kaôh Rōng", "livingLocationCity": "San Francisco", "livingLocationState": "CA", "finish": 3}
 {"contestantName": "Aubry Bracco", "Age": 29, "seasonName": "Kaôh Rōng", "livingLocationCity": "Cambridge", "livingLocationState": "MA", "finish": 2}
-{"contestantName": "Michele Fitzgerald", "Age": 24, "seasonName": "Kaôh Rōng", "livingLocationCity": "Freehold", "livingLocationState": "NJ", "finish": 1}
-////////////////Millenials vs Gen X
+{"contestantName": "Michele Fitzgerald", "Age": 24, "seasonName": "Kaôh Rōng", "livingLocationCity": "Freehold", "livingLocationState": "NJ", "finish": 1} 
 {"contestantName": "Rachel Ako", "Age": 37, "seasonName": "Millennials vs. Gen X", "livingLocationCity": "Los Angeles", "livingLocationState": "CA", "finish": 20}
 {"contestantName": "Mari Takahashi", "Age": 31, "seasonName": "Millennials vs. Gen X", "livingLocationCity": "Los Angeles", "livingLocationState": "CA", "finish": 19}
 {"contestantName": "Paul Wachter", "Age": 52, "seasonName": "Millennials vs. Gen X", "livingLocationCity": "Sugarloaf Key", "livingLocationState": "FL", "finish": 18}
@@ -626,8 +592,7 @@
 {"contestantName": "David Wright", "Age": 42, "seasonName": "Millennials vs. Gen X", "livingLocationCity": "Sherman Oaks", "livingLocationState": "CA", "finish": 4}
 {"contestantName": "Hannah Shapiro", "Age": 24, "seasonName": "Millennials vs. Gen X", "livingLocationCity": "West Hollywood", "livingLocationState": "CA", "finish": 3}
 {"contestantName": "Ken McNickle", "Age": 33, "seasonName": "Millennials vs. Gen X", "livingLocationCity": "Denver", "livingLocationState": "CO", "finish": 2}
-{"contestantName": "Adam Klein", "Age": 25, "seasonName": "Millennials vs. Gen X", "livingLocationCity": "San Francisco", "livingLocationState": "CA", "finish": 1}
-/////////////////Game Changers///////////////
+{"contestantName": "Adam Klein", "Age": 25, "seasonName": "Millennials vs. Gen X", "livingLocationCity": "San Francisco", "livingLocationState": "CA", "finish": 1} 
 {"contestantName": "Ciera Eastin", "Age": 27, "seasonName": "Game Changers", "livingLocationCity": "Salem", "livingLocationState": "OR", "finish": 20}
 {"contestantName": "Tony Vlachos", "Age": 42, "seasonName": "Game Changers", "livingLocationCity": "Jersey City", "livingLocationState": "NJ", "finish": 19}
 {"contestantName": "Caleb Reynolds", "Age": 28, "seasonName": "Game Changers", "livingLocationCity": "Hopkinsville", "livingLocationState": "KY", "finish": 18}
@@ -647,24 +612,16 @@
 {"contestantName": "Tai Trang", "Age": 52, "seasonName": "Game Changers", "livingLocationCity": "San Francisco", "livingLocationState": "CA", "finish": 4}
 {"contestantName": "Troy 'Troyzan' Robertson", "Age": 54, "seasonName": "Game Changers", "livingLocationCity": "Miami", "livingLocationState": "FL", "finish": 3}
 {"contestantName": "Brad Culpepper", "Age": 47, "seasonName": "Game Changers", "livingLocationCity": "Tampa", "livingLocationState": "FL", "finish": 2}
-{"contestantName": "Sarah Lacina", "Age": 32, "seasonName": "Game Changers", "livingLocationCity": "Marion", "livingLocationState": "IA", "finish": 1}
-///////////////Heroes vs. Healers vs. Hustlers/////////////
-{"contestantName": "Katrina Radke", "Age": 46, "seasonName": "Heroes vs. Hustlers", "livingLocationCity": "Excelsior", "livingLocationState": "MN", "finish": 18}
-{"contestantName": "Simone Nguyen", "Age": 25, "seasonName": "Heroes vs. Hustlers", "livingLocationCity": "New York", "livingLocationState": "NY", "finish": 17}
-{"contestantName": "Patrick Bolton", "Age": 24, "seasonName": "Heroes vs. Hustlers", "livingLocationCity": "Auburn", "livingLocationState": "AL", "finish": 16}
-{"contestantName": "Alan Ball", "Age": 31, "seasonName": "Heroes vs. Hustlers", "livingLocationCity": "Houston", "livingLocationState": "TX", "finish": 15}
-{"contestantName": "Roark Luskin", "Age": 27, "seasonName": "Heroes vs. Hustlers", "livingLocationCity": "Santa Monica", "livingLocationState": "CA", "finish": 14}
-{"contestantName": "Ali Elliott", "Age": 24, "seasonName": "Heroes vs. Hustlers", "livingLocationCity": "Los Angeles", "livingLocationState": "CA", "finish": 13}
-{"contestantName": "Jessica Johnston", "Age": 29, "seasonName": "Heroes vs. Hustlers", "livingLocationCity": "Louisville", "livingLocationState": "KY", "finish": 12}
-{"contestantName": "Desi Williams", "Age": 27, "seasonName": "Heroes vs. Hustlers", "livingLocationCity": "Newport News", "livingLocationState": "VA", "finish": 11}
-{"contestantName": "Cole Medders", "Age": 24, "seasonName": "Heroes vs. Hustlers", "livingLocationCity": "Little Rock", "livingLocationState": "AR", "finish": 9}
-{"contestantName": "Ben Driebergen", "Age": 34, "seasonName": "Heroes vs. Hustlers", "livingLocationCity": "Boise", "livingLocationState": "ID", "finish": }
-{"contestantName": "JP Hilsabeck", "Age": 28, "seasonName": "Heroes vs. Hustlers", "livingLocationCity": "Los Angeles", "livingLocationState": "CA", "finish": }
-{"contestantName": "Chrissy Hofbeck", "Age": 46, "seasonName": "Heroes vs. Hustlers", "livingLocationCity": "Lebanon Township", "livingLocationState": "NJ", "finish": }
-{"contestantName": "Joe Mena", "Age": 34, "seasonName": "Heroes vs. Hustlers", "livingLocationCity": "Tolland", "livingLocationState": "CT", "finish": }
-{"contestantName": "Ashley Nolan", "Age": 26, "seasonName": "Heroes vs. Hustlers", "livingLocationCity": "Satellite Beach", "livingLocationState": "FL", "finish": }
-{"contestantName": "Devon Pinto", "Age": 24, "seasonName": "Heroes vs. Hustlers", "livingLocationCity": "Solana Beach", "livingLocationState": "CA", "finish": }
-{"contestantName": "Lauren Rimmer", "Age": 35, "seasonName": "Heroes vs. Hustlers", "livingLocationCity": "Beaufort", "livingLocationState": "NC", "finish": }
-{"contestantName": "Ryan Ulrich", "Age": 23, "seasonName": "Heroes vs. Hustlers", "livingLocationCity": "North Arlington", "livingLocationState": "NJ", "finish": }
-{"contestantName": "Mike Zahalsky", "Age": 43, "seasonName": "Heroes vs. Hustlers", "livingLocationCity": "Parkland", "livingLocationState": "FL", "finish": }
-
+{"contestantName": "Sarah Lacina", "Age": 32, "seasonName": "Game Changers", "livingLocationCity": "Marion", "livingLocationState": "IA", "finish": 1} 
+{"contestantName": "Katrina Radke", "Age": 46, "seasonName": "Heroes vs. Healers vs. Hustlers", "livingLocationCity": "Excelsior", "livingLocationState": "MN", "finish": 18}
+{"contestantName": "Simone Nguyen", "Age": 25, "seasonName": "Heroes vs. Healers vs. Hustlers", "livingLocationCity": "New York", "livingLocationState": "NY", "finish": 17}
+{"contestantName": "Patrick Bolton", "Age": 24, "seasonName": "Heroes vs. Healers vs. Hustlers", "livingLocationCity": "Auburn", "livingLocationState": "AL", "finish": 16}
+{"contestantName": "Alan Ball", "Age": 31, "seasonName": "Heroes vs. Healers vs. Hustlers", "livingLocationCity": "Houston", "livingLocationState": "TX", "finish": 15}
+{"contestantName": "Roark Luskin", "Age": 27, "seasonName": "Heroes vs. Healers vs. Hustlers", "livingLocationCity": "Santa Monica", "livingLocationState": "CA", "finish": 14}
+{"contestantName": "Ali Elliott", "Age": 24, "seasonName": "Heroes vs. Healers vs. Hustlers", "livingLocationCity": "Los Angeles", "livingLocationState": "CA", "finish": 13}
+{"contestantName": "Jessica Johnston", "Age": 29, "seasonName": "Heroes vs. Healers vs. Hustlers", "livingLocationCity": "Louisville", "livingLocationState": "KY", "finish": 12}
+{"contestantName": "Desi Williams", "Age": 27, "seasonName": "Heroes vs. Healers vs. Hustlers", "livingLocationCity": "Newport News", "livingLocationState": "VA", "finish": 11}
+{"contestantName": "Cole Medders", "Age": 24, "seasonName": "Heroes vs. Healers vs. Hustlers", "livingLocationCity": "Little Rock", "livingLocationState": "AR", "finish": 10}
+{"contestantName": "JP Hilsabeck", "Age": 28, "seasonName": "Heroes vs. Healers vs. Hustlers", "livingLocationCity": "Los Angeles", "livingLocationState": "CA", "finish": 9}
+{"contestantName": "Joe Mena", "Age": 34, "seasonName": "Heroes vs. Healers vs. Hustlers", "livingLocationCity": "Tolland", "livingLocationState": "CT", "finish": 8}
+{"contestantName": "Lauren Rimmer", "Age": 35, "seasonName": "Heroes vs. Healers vs. Hustlers", "livingLocationCity": "Beaufort", "livingLocationState": "NC", "finish": 7}

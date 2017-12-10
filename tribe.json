@@ -1,21 +1,1304 @@
+//Borneo
 {
-        "season": ,
-        "tribe": [
-            {
-                "numberOfTribalCouncils": ,
-                "numberOfWins":
-                "dateOfMerge":
-                
-            }]
-        
-}
-{
-    "season" : "",
-    "contestantName": "",
+    "seasonName" : "Borneo",
+    "contestantName": "B.B. Anderson",
     "tribe": [
-        "firstTribe": ,
-        "secondTribe": ,
-        "thirdTribe": ,
-        "fourthTribe": 
+        "originalTribe": "Pagong",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
         ]
 },
+{
+    "seasonName" : "Borneo",
+    "contestantName": "Greg Buis",
+    "tribe": [
+        "originalTribe": "Pagong",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Rattana"
+        ]
+},
+{
+    "seasonName" : "Borneo",
+    "contestantName": " Gretchen Cordy",
+    "tribe": [
+        "originalTribe": "Pagong",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Rattana"
+        ]
+},
+{
+    "seasonName" : "Borneo",
+    "contestantName": "Ramona Gray",
+    "tribe": [
+        "originalTribe": "Pagong",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Borneo",
+    "contestantName": "Colleen Haskell",
+    "tribe": [
+        "originalTribe": "Pagong",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Rattana"
+        ]
+},
+{
+    "seasonName" : "Borneo",
+    "contestantName": "Joel Klug",
+    "tribe": [
+        "originalTribe": "Pagong",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Borneo",
+    "contestantName": "Jenna Lewis",
+    "tribe": [
+        "originalTribe": "Pagong",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Rattana"
+        ]
+},
+{
+    "seasonName" : "Borneo",
+    "contestantName": "Gervase Peterson",
+    "tribe": [
+        "originalTribe": "Pagong",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Rattana"
+        ]
+},
+{
+    "seasonName" : "Borneo",
+    "contestantName": "Dirk Been",
+    "tribe": [
+        "originalTribe": "Tagi",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Borneo",
+    "contestantName": "Rudy Boesch",
+    "tribe": [
+        "originalTribe": "Tagi",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Rattana"
+        ]
+},
+{
+    "seasonName" : "Borneo",
+    "contestantName": "Sonja Christopher",
+    "tribe": [
+        "originalTribe": "Tagi",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Borneo",
+    "contestantName": "Sean Kenniff",
+    "tribe": [
+        "originalTribe": "Tagi",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Rattana"
+        ]
+},
+{
+    "seasonName" : "Borneo",
+    "contestantName": "Richard Hatch",
+    "tribe": [
+        "originalTribe": "Tagi",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Rattana"
+        ]
+},
+{
+    "seasonName" : "Borneo",
+    "contestantName": "Susan Hawk",
+    "tribe": [
+        "originalTribe": "Tagi",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Rattana"
+        ]
+},
+{
+    "seasonName" : "Borneo",
+    "contestantName": "Stacey Stillman",
+    "tribe": [
+        "originalTribe": "Tagi",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Borneo",
+    "contestantName": "Kelly wiglesworth",
+    "tribe": [
+        "originalTribe": "Tagi",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Rattana"
+        ]
+},
+/////Australian Outback
+{
+    "seasonName" : "Australian Outback",
+    "contestantName": "Rodger Bingham",
+    "tribe": [
+        "originalTribe": "Kucha",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Barramundi"
+        ]
+},
+{
+    "seasonName" : "Australian Outback",
+    "contestantName": "Amber Brkich",
+    "tribe": [
+        "originalTribe": "Ogakor",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Barramundi"
+        ]
+},
+{
+    "seasonName" : "Australian Outback",
+    "contestantName": "Nick Brown",
+    "tribe": [
+        "originalTribe": "Kucha",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Barramundi"
+        ]
+},
+{
+    "seasonName" : "Australian Outback",
+    "contestantName": "Alicia Calaway",
+    "tribe": [
+        "originalTribe": "Kucha",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Barramundi"
+        ]
+},
+{
+    "seasonName" : "Australian Outback",
+    "contestantName": "Colby Donaldson",
+    "tribe": [
+        "originalTribe": "Ogakor",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Barramundi"
+        ]
+},
+{
+    "seasonName" : "Australian Outback",
+    "contestantName": "Keith Famie",
+    "tribe": [
+        "originalTribe": "Ogakor",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Barramundi"
+        ]
+},
+{
+    "seasonName" : "Australian Outback",
+    "contestantName": "Elisabeth Filarski",
+    "tribe": [
+        "originalTribe": "Kucha",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Barramundi"
+        ]
+},
+{
+    "seasonName" : "Australian Outback",
+    "contestantName": "Jerri Manthey",
+    "tribe": [
+        "originalTribe": "Ogakor",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Barramundi"
+        ]
+},
+{
+    "seasonName" : "Australian Outback",
+    "contestantName": "Jeff Varner",
+    "tribe": [
+        "originalTribe": "Kucha",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Barramundi"
+        ]
+},
+{
+    "seasonName" : "Australian Outback",
+    "contestantName": "Tina Wesson",
+    "tribe": [
+        "originalTribe": "Ogakor",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Barramundi"
+        ]
+},
+{
+    "seasonName" : "Australian Outback",
+    "contestantName": "Michael Skupin",
+    "tribe": [
+        "originalTribe": "Kucha",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Australian Outback",
+    "contestantName": "Debb Eaton",
+    "tribe": [
+        "originalTribe": "Kucha",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Australian Outback",
+    "contestantName": "Kimmi Kappenberg",
+    "tribe": [
+        "originalTribe": "Kucha",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Australian Outback",
+    "contestantName": "Mitchell Olson",
+    "tribe": [
+        "originalTribe": "Ogakor",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Australian Outback",
+    "contestantName": "Kel Gleason",
+    "tribe": [
+        "originalTribe": "Ogakor",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Australian Outback",
+    "contestantName": "Maralyn Hershey",
+    "tribe": [
+        "originalTribe": "Ogakor",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+////////////Africa
+{
+    "seasonName" : "Africa",
+    "contestantName": "Clarence Black",
+    "tribe": [
+        "originalTribe": "Boran",
+        "firstSwitchTribe": "Boran",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Moto Maji"
+        ]
+},
+{
+    "seasonName" : "Africa",
+    "contestantName": "Tom Buchanan",
+    "tribe": [
+        "originalTribe": "Boran",
+        "firstSwitchTribe": "Samburu",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Moto Maji"
+        ]
+},
+{
+    "seasonName" : "Africa",
+    "contestantName": "Jesse Camacho",
+    "tribe": [
+        "originalTribe": "Boran",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Africa",
+    "contestantName": "Kelly Goldsmith",
+    "tribe": [
+        "originalTribe": "Boran",
+        "firstSwitchTribe": "Samburu",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Moto Maji"
+        ]
+},
+{
+    "seasonName" : "Africa",
+    "contestantName": "Kim Johnson",
+    "tribe": [
+        "originalTribe": "Boran",
+        "firstSwitchTribe": "Boran",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Moto Maji"
+        ]
+},
+{
+    "seasonName" : "Africa",
+    "contestantName": "Diane Ogden",
+    "tribe": [
+        "originalTribe": "Boran",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Africa",
+    "contestantName": "Lex van de Berghe",
+    "tribe": [
+        "originalTribe": "Boran",
+        "firstSwitchTribe": "Samburu",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Moto Maji"
+        ]
+},
+{
+    "seasonName" : "Africa",
+    "contestantName": "Ethan Zohn",
+    "tribe": [
+        "originalTribe": "Boran",
+        "firstSwitchTribe": "Boran",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Moto Maji"
+        ]
+},
+{
+    "seasonName" : "Africa",
+    "contestantName": "Carl Bilancione",
+    "tribe": [
+        "originalTribe": "Samburu",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Africa",
+    "contestantName": "Teresa Cooper",
+    "tribe": [
+        "originalTribe": "Samburu",
+        "firstSwitchTribe": "Boran",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Moto Maji"
+        ]
+},
+{
+    "seasonName" : "Africa",
+    "contestantName": "Silas Gaither",
+    "tribe": [
+        "originalTribe": "Samburu",
+        "firstSwitchTribe": "Boran",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Africa",
+    "contestantName": "Frank Garrison",
+    "tribe": [
+        "originalTribe": "Samburu",
+        "firstSwitchTribe": "Boran",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Moto Maji"
+        ]
+},
+{
+    "seasonName" : "Africa",
+    "contestantName": "Kim Powers",
+    "tribe": [
+        "originalTribe": "Samburu",
+        "firstSwitchTribe": "Samburu",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Moto Maji"
+        ]
+},
+{
+    "seasonName" : "Africa",
+    "contestantName": "Brandon Quinton",
+    "tribe": [
+        "originalTribe": "Samburu",
+        "firstSwitchTribe": "Samburu",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Moto Maji"
+        ]
+},
+{
+    "seasonName" : "Africa",
+    "contestantName": "Lindsey Richter",
+    "tribe": [
+        "originalTribe": "Samburu",
+        "firstSwitchTribe": "Samburu",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Africa",
+    "contestantName": "Linda Spencer",
+    "tribe": [
+        "originalTribe": "Samburu",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+/////////////Marquesas/////////////
+{
+    "seasonName" : "Marquesas",
+    "contestantName": "Gina Crews",
+    "tribe": [
+        "originalTribe": "Marramu",
+        "firstSwitchTribe": "Maraamu",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Marquesas",
+    "contestantName": " Hunter Ellis",
+    "tribe": [
+        "originalTribe": "Marramu",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Marquesas",
+    "contestantName": "Peter Harkey",
+    "tribe": [
+        "originalTribe": "Marramu",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Marquesas",
+    "contestantName": "Patricia Jackson",
+    "tribe": [
+        "originalTribe": "Marramu",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Marquesas",
+    "contestantName": "Sarah Jones",
+    "tribe": [
+        "originalTribe": "Marramu",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Marquesas",
+    "contestantName": "Rob Mariano",
+    "tribe": [
+        "originalTribe": "Marramu",
+        "firstSwitchTribe": "Rotu",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Soliantu"
+        ]
+},
+{
+    "seasonName" : "Marquesas",
+    "contestantName": "Sean Rector",
+    "tribe": [
+        "originalTribe": "Marramu",
+        "firstSwitchTribe": "Rotu",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Soliantu"
+        ]
+},
+{
+    "seasonName" : "Marquesas",
+    "contestantName": "Vecepia Towery",
+    "tribe": [
+        "originalTribe": "Marramu",
+        "firstSwitchTribe": "Rotu",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Soliantu"
+        ]
+},
+{
+    "seasonName" : "Marquesas",
+    "contestantName": "Gabriel Cade",
+    "tribe": [
+        "originalTribe": "Rotu",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Marquesas",
+    "contestantName": "John Carroll",
+    "tribe": [
+        "originalTribe": "Rotu",
+        "firstSwitchTribe": "Rotu",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Soliantu"
+        ]
+},
+{
+    "seasonName" : "Marquesas",
+    "contestantName": "Robert DeCanio",
+    "tribe": [
+        "originalTribe": "Rotu",
+        "firstSwitchTribe": "Rotu",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Soliantu"
+        ]
+},
+{
+    "seasonName" : "Marquesas",
+    "contestantName": "Neleh Dennis",
+    "tribe": [
+        "originalTribe": "Rotu",
+        "firstSwitchTribe": "Maraamu",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Soliantu"
+        ]
+},
+{
+    "seasonName" : "Marquesas",
+    "contestantName": "Paschal English",
+    "tribe": [
+        "originalTribe": "Rotu",
+        "firstSwitchTribe": "Maraamu",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Soliantu"
+        ]
+},
+{
+    "seasonName" : "Marquesas",
+    "contestantName": "Tammy Leitner,",
+    "tribe": [
+        "originalTribe": "Rotu",
+        "firstSwitchTribe": "Rotu",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Soliantu"
+        ]
+},
+{
+    "seasonName" : "Marquesas",
+    "contestantName": "Kathy Vavrick-O'Brien",
+    "tribe": [
+        "originalTribe": "Rotu",
+        "firstSwitchTribe": "Maraamu",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Soliantu"
+        ]
+},
+{
+    "seasonName" : "Marquesas",
+    "contestantName": "Zoe Zanidakis",
+    "tribe": [
+        "originalTribe": "Rotu",
+        "firstSwitchTribe": "Rotu",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Soliantu"
+        ]
+},
+////////////////////Thailand//////////////////////////////
+{
+    "seasonName" : "Thailand",
+    "contestantName": "Jan Gentry",
+    "tribe": [
+        "originalTribe": "Chuay Gahn",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Chuay Jai"
+        ]
+},
+{
+    "seasonName" : "Thailand",
+    "contestantName": "Helen Glover",
+    "tribe": [
+        "originalTribe": "Chuay Gahn",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Chuay Jai"
+        ]
+},
+{
+    "seasonName" : "Thailand",
+    "contestantName": "Brian Heidik",
+    "tribe": [
+        "originalTribe": "Chuay Gahn",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Chuay Jai"
+        ]
+},
+{
+    "seasonName" : "Thailand",
+    "contestantName": "Ghandia Johnson",
+    "tribe": [
+        "originalTribe": "Chuay Gahn",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Thailand",
+    "contestantName": "Clay Jordan",
+    "tribe": [
+        "originalTribe": "Chuay Gahn",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Chuay Jai"
+        ]
+},
+{
+    "seasonName" : "Thailand",
+    "contestantName": "John Raymond",
+    "tribe": [
+        "originalTribe": "Chuay Gahn",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Thailand",
+    "contestantName": "Ted Rogers, Jr.",
+    "tribe": [
+        "originalTribe": "Chuay Gahn",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Chuay Jai"
+        ]
+},
+{
+    "seasonName" : "Thailand",
+    "contestantName": "Tanya Vance",
+    "tribe": [
+        "originalTribe": "Chuay Gahn",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Thailand",
+    "contestantName": "Jake Billingsley",
+    "tribe": [
+        "originalTribe": "Sook Jai",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Chuay Jai"
+        ]
+},
+{
+    "seasonName" : "Thailand",
+    "contestantName": "Erin Collins",
+    "tribe": [
+        "originalTribe": "Sook Jai",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Thailand",
+    "contestantName": "Stephanie Dill",
+    "tribe": [
+        "originalTribe": "Sook Jai",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Thailand",
+    "contestantName": "Jed Hildebrand",
+    "tribe": [
+        "originalTribe": "Sook Jai",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Thailand",
+    "contestantName": "Shii Ann Huang",
+    "tribe": [
+        "originalTribe": "Sook Jai",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Thailand",
+    "contestantName": "Penny Ramsey",
+    "tribe": [
+        "originalTribe": "Sook Jai",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Chuay Jai"
+        ]
+},
+{
+    "seasonName" : "Thailand",
+    "contestantName": "Ken Stafford",
+    "tribe": [
+        "originalTribe": "Sook Jai",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Chuay Jai"
+        ]
+},
+{
+    "seasonName" : "Thailand",
+    "contestantName": "Robb Zbacnik",
+    "tribe": [
+        "originalTribe": "Sook Jai",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+/////////////////////////////////  Amazon/////////////
+{
+    "seasonName" : "Amazon",
+    "contestantName": "Deena Bennett",
+    "tribe": [
+        "originalTribe": "Jaburu",
+        "firstSwitchTribe": "Jaburu",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Jacare"
+        ]
+},
+{
+    "seasonName" : "Amazon",
+    "contestantName": "Jeanne Hebert",
+    "tribe": [
+        "originalTribe": "Jaburu",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "Tambaqui",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Amazon",
+    "contestantName": "Janet Koth",
+    "tribe": [
+        "originalTribe": "Jaburu",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Amazon",
+    "contestantName": "Shawna Mitchell",
+    "tribe": [
+        "originalTribe": "Jaburu",
+        "firstSwitchTribe": "Jaburu",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Amazon",
+    "contestantName": "Jenna Morasca",
+    "tribe": [
+        "originalTribe": "Jaburu",
+        "firstSwitchTribe": "Jaburu",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Amazon",
+    "contestantName": "Christy Smith",
+    "tribe": [
+        "originalTribe": "Jaburu",
+        "firstSwitchTribe": "Tambaqui",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Jacare"
+        ]
+},
+{
+    "seasonName" : "Amazon",
+    "contestantName": "Heidi Strobel",
+    "tribe": [
+        "originalTribe": "Jaburu",
+        "firstSwitchTribe": "Tambaqui",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Jacare"
+        ]
+},
+{
+    "seasonName" : "Amazon",
+    "contestantName": "Joanna Ward",
+    "tribe": [
+        "originalTribe": "Jaburu",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Amazon",
+    "contestantName": "Ryan Aiken",
+    "tribe": [
+        "originalTribe": "Tambaqui",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Amazon",
+    "contestantName": "Alex Bell",
+    "tribe": [
+        "originalTribe": "Tambaqui",
+        "firstSwitchTribe": "Jaburu",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Jacare"
+        ]
+},
+{
+    "seasonName" : "Amazon",
+    "contestantName": "Matthew von Ertfelda",
+    "tribe": [
+        "originalTribe": "Tambaqui",
+        "firstSwitchTribe": "Jaburu",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Jacare"
+        ]
+},
+{
+    "seasonName" : "Amazon",
+    "contestantName": "Rob Cesternino",
+    "tribe": [
+        "originalTribe": "Tambaqui",
+        "firstSwitchTribe": "Jaburu",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Jacare"
+        ]
+},
+{
+    "seasonName" : "Amazon",
+    "contestantName": "Dave Johnsonn",
+    "tribe": [
+        "originalTribe": "Tambaqui",
+        "firstSwitchTribe": "Tambaqui",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Jacare"
+        ]
+},
+{
+    "seasonName" : "Amazon",
+    "contestantName": "Butch Lockley",
+    "tribe": [
+        "originalTribe": "Tambaqui",
+        "firstSwitchTribe": "Tambaqui",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Jacare"
+        ]
+},
+{
+    "seasonName" : "Amazon",
+    "contestantName": "Daniel Lue",
+    "tribe": [
+        "originalTribe": "Tambaqui",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Amazon",
+    "contestantName": "Roger Sexton",
+    "tribe": [
+        "originalTribe": "Tambaqui",
+        "firstSwitchTribe": "Tambaqui",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": "Jacare"
+        ]
+},
+////////////////////////////////////Pearl Islands//////////////////
+{
+    "seasonName" : "Pearl Islands",
+    "contestantName": "",
+    "tribe": [
+        "originalTribe": "Drake",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Pearl Islands",
+    "contestantName": "",
+    "tribe": [
+        "originalTribe": "Morgan",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+{
+    "seasonName" : "Pearl Islands",
+    "contestantName": "",
+    "tribe": [
+        "originalTribe": "The Outcasts",
+        "firstSwitchTribe": "",
+        "secondSwitchTribe": "",
+		"Eliminated": "",
+		"Dissolution": "",
+		"DissolutionAndSwitch": "",
+        "mergeTribe": ""
+        ]
+},
+
+
+
+
+
+
+
+
+
+
